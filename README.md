@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAKhan317  
+- 👋 Hi, I’m @AAKhan317  Asad Khursheed
 - 👀 I’m interested in cloud computing, automation, and infrastructure management.  
 - 🌱 I’m currently learning advanced Azure and AWS cloud services, as well as DevOps practices.  
 - 💞️ I’m looking to collaborate on cloud-based projects, system automation, and infrastructure-as-code solutions.  
